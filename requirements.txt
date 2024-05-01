@@ -1,0 +1,6 @@
+pygame
+opencv-python
+numpy
+scipy
+ultralytics
+coppeliasim_zmqremoteapi_client

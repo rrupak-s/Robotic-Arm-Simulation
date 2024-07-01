@@ -15,3 +15,6 @@ The robotic arm in this simulation can take a user command with speech recogniti
 1. Install coppelia EDU (version 4.5.1 recommended)
 2. Install python dependencies included in requirements
 3. Run python script (main.py) to operate the robotic arm
+
+## Demonstration Video
+[Watch a demo on YouTube](https://www.youtube.com/watch?v=f1fznbRREFI)
